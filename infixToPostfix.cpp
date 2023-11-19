@@ -2,7 +2,7 @@
 #include <stack>
 #include <string>
 using namespace std;
-
+//class 
 class InfixToPostfix
 {
     private:
@@ -109,11 +109,11 @@ int main()
 
 /*
 
-A + B – C; 
+A + B ï¿½ C; 
 (A + B) * C; 
-(A + B) * (C – D);
-A + (( B + C) * ( E – F ) – G ) / ( H- I); 
-A + B * (C+D) – E / F * G + H;
+(A + B) * (C ï¿½ D);
+A + (( B + C) * ( E ï¿½ F ) ï¿½ G ) / ( H- I); 
+A + B * (C+D) ï¿½ E / F * G + H;
 
 */
 
